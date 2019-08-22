@@ -1,0 +1,6 @@
+requirements
+pymysql
+flask
+flask-mail
+flask-login
+...
